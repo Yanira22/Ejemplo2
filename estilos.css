@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11-mar-2019, 20:58:54
+    Author     : cetecom
+*/
+
+
+/*DEFINIR ESILO*/
+.parrafos{
+     font-size: 20px;
+     color: green;
+     background: red;
+     border: 1px;
+     border-color: black;
+}
