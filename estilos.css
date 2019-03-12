@@ -17,3 +17,32 @@ and open the template in the editor.
      border: 1px;
      border-color: black;
 }
+
+.parrafos1{
+    font-size: 20px;
+     color: green;
+     background: black;
+     border: 5px;
+     border-color: white;
+}
+
+#parrafo1{ /*para definir estilo por ID se aplica con #*/
+    font-size: 20px;
+     color: green;
+     background: red;
+     border: 1px;
+     border-color: black;
+}
+
+#parrafo2{
+     font-size: 150px;
+     color: pink;
+     background: red;
+     border: 3px;
+     border-color: black;
+     border-style: solid;
+}
+
+@media only screen and (max-width:450px){
+    
+}
